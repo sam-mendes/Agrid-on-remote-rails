@@ -8,10 +8,11 @@ Quem é você?
 
 Então, sou um cara apaixonado por TI que acabou ficando acomodado por conta do mercado no DF e alguns acontecimentos familiares (falecimento, doenças).
 
-Vocês verão que voltei a utilizar github recentemente. 
+Vocês verão que voltei a utilizar github recentemente. Voltei a estudar... Fuck Yeah!!.
 
 Atualmente estou empenhando em aprender Android nativo e contribuindo para o projeto Firefox for Android.
-Voltei a estudar (Fuck Yeah!!).
+
+Nos conte sua experiência em Ruby / RoR?
 
 Experiência Rails:
 
