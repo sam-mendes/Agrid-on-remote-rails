@@ -14,11 +14,9 @@ Atualmente estou empenhando em aprender Android nativo e contribuindo para o pro
 
 **Nos conte sua experiência em Ruby / RoR?**
 
-Experiência Rails:
-
 Eu trabalhei em 2 projetos utilizando o belo Rails, primeiro no https://zeropaper.com.br/ e depois em um projeto de melhoria interna para contratação de pessoal.
 
-**Nossa!! Você trabalhou já em uma startup?**
+**Nossa!! Você já trabalhou em uma startup?**
 
 Sim! Consegui a vaga fazendo um projetinho chamado chikens on rails, vocês verão nos repos.
 
