@@ -48,7 +48,7 @@ E no frontend, você é melhor que o Chewbacca?
 Não, infelizmente acho que o Chewbacca é 3x melhor.
 Eu conheço html, css e amo javascript mas não tenho skill de designer. Espero um dia ter esse feeling. 
 
-__Vocês poderiam me ajudar? true story__
+*Vocês poderiam me ajudar? (true story)*
 
 **Por que procura a vaga?**
 
